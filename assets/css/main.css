@@ -1903,7 +1903,7 @@
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: rgba(44, 62, 80, .9);
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -2157,9 +2157,9 @@
 				color: rgba(255, 255, 255, 0.75);
 			}
 
-				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-					color: inherit;
-				}
+				/*#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {*/
+					/*color: inherit;*/
+				/*}*/
 
 				#main > section.dark strong {
 					color: #fff;
@@ -2187,7 +2187,7 @@
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: rgba(44, 62, 80, .9);
 			}
 
 			#main > section.three {
@@ -2195,7 +2195,7 @@
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: rgba(44, 62, 80, .9);
 			}
 
 /* Wide */
