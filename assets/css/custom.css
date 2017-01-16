@@ -19,3 +19,25 @@
     font-size: 600%;
     font-weight: 400;
 }
+
+#adventure-adventure {
+    width: 50%;
+}
+
+
+#header{
+    display: none;
+}
+
+.icons{
+    color: #2C3E50;
+    margin-left: 100px;
+    width: inherit;
+}
+
+.icons li {
+    background-color: white;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}

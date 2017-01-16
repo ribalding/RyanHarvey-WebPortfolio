@@ -132,7 +132,7 @@
 		}
 
 		.container {
-			width: 960px;
+			width: 80%;
 		}
 
 	}
@@ -2110,7 +2110,6 @@
 /* Footer */
 
 	#footer {
-		margin-left: 375px;
 		text-align: center;
 		background-color: #dce3e2;
 		padding: 3em 0 4em 0;
@@ -2140,7 +2139,7 @@
 /* Main */
 
 	#main {
-		margin-left: 375px;
+
 	}
 
 		#main > section {
@@ -2217,13 +2216,12 @@
 		/* Footer */
 
 			#footer {
-				margin-left: 300px;
 			}
 
 		/* Main */
 
 			#main {
-				margin-left: 300px;
+
 			}
 
 	}
