@@ -45,6 +45,7 @@
 @media (max-width: 800px){
     .name-title, .portfolio-title{
         font-size: 400%;
+        line-height: 90%;
     }
 
     #bio-text{
