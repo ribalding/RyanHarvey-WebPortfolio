@@ -43,7 +43,12 @@
 }
 
 @media (max-width: 800px){
-    .name-title{
+    .name-title, .portfolio-title{
         font-size: 400%;
+    }
+
+    #bio-text{
+        font-size: 90%;
+        line-height: 95%;
     }
 }
