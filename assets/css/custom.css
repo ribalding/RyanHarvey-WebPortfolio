@@ -41,3 +41,9 @@
     -moz-border-radius: 5px;
     border-radius: 0 0 5px 5px;
 }
+
+@media (max-width: 800px){
+    .name-title{
+        font-size: 400%;
+    }
+}
