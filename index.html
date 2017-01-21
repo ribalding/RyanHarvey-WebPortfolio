@@ -179,12 +179,12 @@
 
             <p class="portfolio-text">Get in touch! If you need web or mobile development work done, I'd love to talk.</p>
 
-            <form method="post" action="#">
+            <form method="post" action="./assets/php/email.php">
                 <div class="row">
-                    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
-                    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
+                    <div class="6u 12u$(mobile)"><input type="text" id="user_name" name="user_name" placeholder="Name" /></div>
+                    <div class="6u$ 12u$(mobile)"><input type="text" name="user_email" placeholder="Email" /></div>
                     <div class="12u$">
-                        <textarea name="message" placeholder="Message"></textarea>
+                        <textarea name="message_body" id="message_body" placeholder="Message"></textarea>
                     </div>
                     <div class="12u$">
                         <input type="submit" value="Send Message" />
